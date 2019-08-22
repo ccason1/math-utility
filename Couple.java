@@ -1,14 +1,3 @@
-/**
- *@author Conlan Cason
- *@version 1.0
- *
- *container two <code>int</code>s
- *
- *@param a an <code>int</code> a
- *@param b an <code>int</code> b
-*/
-
-
 package conlan.math;
 
 public class Couple {
