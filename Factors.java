@@ -1,4 +1,5 @@
 package conlan.math;
+
 import java.util.ArrayList;
 
 public class Factors 
