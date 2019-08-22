@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class Factors 
 {
-	
 	public static ArrayList<Couple> getFactors(int num)
 	{
 		ArrayList<Couple> factors = new ArrayList<>();
